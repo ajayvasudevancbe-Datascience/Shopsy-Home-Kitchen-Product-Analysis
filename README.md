@@ -5,7 +5,7 @@ End-to-end e-commerce data analytics project covering **data collection, cleanin
 ## Project Workflow
 
 <p align="center">
-  <img src="assets/project_workflow.png" alt="Shopsy Home & Kitchen Analytics Workflow" width="900">
+  <img src="https://github.com/ajayvasudevancbe-Datascience/shopsy_home_kitchen/blob/main/image.png?raw=true" alt="Shopsy Home & Kitchen Analytics Workflow" width="900">
 </p>
 
 **Tools:** Python • Pandas • SQL • MySQL • Matplotlib • Seaborn
