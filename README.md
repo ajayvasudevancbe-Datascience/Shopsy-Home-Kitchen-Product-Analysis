@@ -1,39 +1,12 @@
 # Shopsy Home & Kitchen Product Analysis
 
-An end-to-end data analytics project that collects, cleans, analyzes, and visualizes Shopsy Home & Kitchen product data to generate meaningful business insights.
-
----
-
-## Project Overview
-
-This project focuses on analyzing e-commerce product data from the Shopsy Home & Kitchen category.
-
-The complete workflow covers:
-
-- Web Scraping
-- Data Cleaning
-- Exploratory Data Analysis
-- SQL Analysis
-- Data Visualization
-- Business Insights
-
-The objective is to transform raw product data into structured and meaningful insights related to pricing, discounts, ratings, reviews, brands, materials, and product capacity.
-
----
+End-to-end e-commerce data analytics project covering **data collection, cleaning, SQL analysis, visualization, and business insights**.
 
 ## Project Workflow
 
-```text
-Web Scraping
-     ↓
-Raw Product Data
-     ↓
-Data Cleaning
-     ↓
-Exploratory Data Analysis
-     ↓
-MySQL / SQL Analysis
-     ↓
-Visualization
-     ↓
-Business Insights
+<p align="center">
+  <img src="assets/project_workflow.png" alt="Shopsy Home & Kitchen Analytics Workflow" width="900">
+</p>
+
+**Tools:** Python • Pandas • SQL • MySQL • Matplotlib • Seaborn
+
