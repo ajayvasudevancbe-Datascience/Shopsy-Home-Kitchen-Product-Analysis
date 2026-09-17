@@ -1,6 +1,6 @@
 # Shopsy Home & Kitchen Product Analysis
 
-End-to-end e-commerce data analytics project covering **data collection, cleaning, SQL analysis, visualization, and business insights**.
+E-commerce data analytics project covering **data collection, cleaning, SQL analysis, visualization, and business insights**.
 
 ## Project Workflow
 
